@@ -1,5 +1,7 @@
+package main
 
+import "fmt"
 
-func main(){
-  fmt.println("hello action")
+func main() {
+	fmt.Println("hello action")
 }
